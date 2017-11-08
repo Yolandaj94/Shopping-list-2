@@ -1,1 +1,4 @@
 lemonade
+water
+gin
+vodka
